@@ -1,0 +1,2 @@
+# airbnb-clone-project
+A full-stack web application inspired by Airbnb, designed to provide users with a seamless accommodation booking experience. This project demonstrates skills in frontend and backend development, API design, responsive UI/UX implementation, and modern deployment workflows. Built using React, Node.js, Express, and MongoDB (or PostgreSQL), it covers the complete development cycle from design to deployment.
