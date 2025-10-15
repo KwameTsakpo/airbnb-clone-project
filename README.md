@@ -77,20 +77,20 @@ The UI/UX design of this project aims to deliver a seamless, intuitive, and visu
 
 ### Typography
 - **Primary Font Family:** 
-  - Source Sans Pro
+  - Circular
 
 - **Secondary Font Family:**
   - QuickSand 
 
 - **Font Weights:**  
   - Book (400)  
-  - Medium (600)  
+  - Medium (500)  
   - Bold (700)  
 
 - **Font Sizes:**  
-  - Headings: 94px – 22px  
-  - Body Text: 17px - 23px 
-  - Secondary Text: 12px - 16px  
+  - Headings: 24px-32px 
+  - Body Text: 16px 
+  - Secondary Text: 14px  
 
 ---
 
